@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LaboratorioNo3Android Profile Activity</string>
+
+    <string name="nombre">Alan Pedroza</string>
+    <string name="trabajo">Software Developer</string>
+    <string name="historial_academico">Historial academico</string>
+    <string name="completado_indicador">60%     de </string>
+    <string name="cursoss_indicador">50</string>
+    <string name="completado">Completado</string>
+    <string name="cursos">Cursos</string>
+    <string name="informacion">Actualmente curso la universidad en el campus jalpa, también estudio inglés y japonés en mis tiempos libres</string>
+    <string name="facebook">Alan Pedroza</string>
+    <string name="instagram"></string>
+    <string name="snapchat"></string>
+    <string name="twitter"></string>
+</resources>
